@@ -2,7 +2,7 @@
 
   <!-- BESPOKE 3D CYBERPUNK PROFILE BANNER -->
   <a href="https://github.com/Abhi-dev-02">
-    <img src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/assets/banner.svg" width="100%" alt="Abhishek Kudale Header Banner" />
+    <img src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/assets/banner.svg?v=2" width="100%" alt="Abhishek Kudale Header Banner" />
   </a>
 
   <br/><br/>
