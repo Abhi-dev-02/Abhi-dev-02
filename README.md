@@ -62,7 +62,13 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolbelt
+### 🧊 3D Developer Architecture & Tech Ecosystem
+
+<div align="center">
+  <img src="./assets/3d-tech-ecosystem.svg" width="100%" alt="3D Developer Architecture Ecosystem" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,react,nodejs,express,tailwind,postgres,mysql,git,github,vscode,linux,postman&perline=9&theme=dark" alt="Tech Stack Icons" />
@@ -121,7 +127,13 @@
 
 ---
 
-### 🌟 Featured Repositories & Projects
+### 📦 3D Isometric Project Portals
+
+<div align="center">
+  <img src="./assets/3d-projects.svg" width="100%" alt="3D Isometric Project Portals" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -132,6 +144,18 @@
 | **🧩 Problem-Solving-using-OOP-CPP** | `C++` `OOP` `Data Structures` | Object-oriented problem solving with robust implementations of foundational algorithms, inheritance hierarchies, and memory-efficient structures. | [**View Project ↗**](https://github.com/Abhi-dev-02/Problem-solving-using-oop-cpp) |
 | **🎨 Digital-Portfolio** | `HTML5` `CSS3` `JavaScript` | Personal responsive portfolio platform highlighting technical projects, academic credentials, and interactive web elements. | [**View Project ↗**](https://github.com/Abhi-dev-02/Digital-Portfolio) |
 
+</div>
+
+---
+
+### 🏙️ Isometric 3D Contribution City
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Abhishek's Isometric 3D Contribution City" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
 </div>
 
 ---

@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 290" width="100%" height="100%">
+  <defs>
+    <filter id="cardGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="290" rx="16" fill="#070A10" stroke="#1E293B" stroke-width="1"/>
+  
+  <!-- Section Title -->
+  <g transform="translate(25, 34)">
+    <text fill="#F8FAFC" font-family="-apple-system, sans-serif" font-size="16" font-weight="800">⚡ 3D Isometric Project Portals</text>
+    <text y="18" fill="#64748B" font-family="monospace" font-size="11">Crafted with 3D isometric bevels &amp; depth • Clickable repository links below</text>
+  </g>
+
+  
+    <!-- 3D Card 1 -->
+    <g>
+      <!-- Bottom 3D Bevel -->
+      <polygon points="22,260 30,268 235,268 227,260" fill="#05080E"/>
+      <!-- Right 3D Bevel -->
+      <polygon points="227,65 235,73 235,268 227,260" fill="#0B111D"/>
+      
+      <!-- Front Main Card -->
+      <rect x="22" y="65" width="205" height="195" rx="12" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5" stroke-opacity="0.7"/>
+      
+      <!-- Header Badge -->
+      <rect x="36" y="81" width="130" height="20" rx="6" fill="#1E293B" stroke="#0284C7" stroke-width="1"/>
+      <text x="44" y="95" fill="#38BDF8" font-family="monospace" font-size="9" font-weight="700">🚀 AI / OPTIMIZER</text>
+      
+      <!-- Project Title -->
+      <text x="36" y="129" fill="#F8FAFC" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">SML-Code-Optimiser</text>
+      
+      <!-- Description Lines -->
+      <text x="36" y="155" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">Smart AST analysis &amp; ML</text>
+      <text x="36" y="172" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">powered code optimization</text>
+      <text x="36" y="189" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">and syntax refactoring.</text>
+      
+      <!-- Tech Tags -->
+      <rect x="34" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="63" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">TypeScript</text> <rect x="96" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="125" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Python</text> <rect x="158" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="187" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">ML / AST</text>
+    </g>
+    
+    <!-- 3D Card 2 -->
+    <g>
+      <!-- Bottom 3D Bevel -->
+      <polygon points="242,260 250,268 455,268 447,260" fill="#05080E"/>
+      <!-- Right 3D Bevel -->
+      <polygon points="447,65 455,73 455,268 447,260" fill="#0B111D"/>
+      
+      <!-- Front Main Card -->
+      <rect x="242" y="65" width="205" height="195" rx="12" fill="#0F172A" stroke="#A855F7" stroke-width="1.5" stroke-opacity="0.7"/>
+      
+      <!-- Header Badge -->
+      <rect x="256" y="81" width="130" height="20" rx="6" fill="#1E293B" stroke="#7E22CE" stroke-width="1"/>
+      <text x="264" y="95" fill="#A855F7" font-family="monospace" font-size="9" font-weight="700">📊 DATA INTELLIGENCE</text>
+      
+      <!-- Project Title -->
+      <text x="256" y="129" fill="#F8FAFC" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">Data-Science</text>
+      
+      <!-- Description Lines -->
+      <text x="256" y="155" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">Exploratory data analysis,</text>
+      <text x="256" y="172" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">statistical modeling, &amp; ML</text>
+      <text x="256" y="189" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">predictive pipelines.</text>
+      
+      <!-- Tech Tags -->
+      <rect x="254" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="283" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Python</text> <rect x="316" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="345" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Pandas</text> <rect x="378" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="407" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Scikit</text>
+    </g>
+    
+    <!-- 3D Card 3 -->
+    <g>
+      <!-- Bottom 3D Bevel -->
+      <polygon points="462,260 470,268 675,268 667,260" fill="#05080E"/>
+      <!-- Right 3D Bevel -->
+      <polygon points="667,65 675,73 675,268 667,260" fill="#0B111D"/>
+      
+      <!-- Front Main Card -->
+      <rect x="462" y="65" width="205" height="195" rx="12" fill="#0F172A" stroke="#10B981" stroke-width="1.5" stroke-opacity="0.7"/>
+      
+      <!-- Header Badge -->
+      <rect x="476" y="81" width="130" height="20" rx="6" fill="#1E293B" stroke="#047857" stroke-width="1"/>
+      <text x="484" y="95" fill="#10B981" font-family="monospace" font-size="9" font-weight="700">⚡ HIGH PERFORMANCE</text>
+      
+      <!-- Project Title -->
+      <text x="476" y="129" fill="#F8FAFC" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">Problem-Solving OOP</text>
+      
+      <!-- Description Lines -->
+      <text x="476" y="155" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">Object-oriented algorithmic</text>
+      <text x="476" y="172" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">problem solving &amp; efficient</text>
+      <text x="476" y="189" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">memory DSA structures.</text>
+      
+      <!-- Tech Tags -->
+      <rect x="474" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="503" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">C++</text> <rect x="536" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="565" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">OOP</text> <rect x="598" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="627" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Algorithms</text>
+    </g>
+    
+    <!-- 3D Card 4 -->
+    <g>
+      <!-- Bottom 3D Bevel -->
+      <polygon points="682,260 690,268 895,268 887,260" fill="#05080E"/>
+      <!-- Right 3D Bevel -->
+      <polygon points="887,65 895,73 895,268 887,260" fill="#0B111D"/>
+      
+      <!-- Front Main Card -->
+      <rect x="682" y="65" width="205" height="195" rx="12" fill="#0F172A" stroke="#EC4899" stroke-width="1.5" stroke-opacity="0.7"/>
+      
+      <!-- Header Badge -->
+      <rect x="696" y="81" width="130" height="20" rx="6" fill="#1E293B" stroke="#BE185D" stroke-width="1"/>
+      <text x="704" y="95" fill="#EC4899" font-family="monospace" font-size="9" font-weight="700">🎨 CREATIVE WEB</text>
+      
+      <!-- Project Title -->
+      <text x="696" y="129" fill="#F8FAFC" font-family="-apple-system, sans-serif" font-size="14" font-weight="700">Digital-Portfolio</text>
+      
+      <!-- Description Lines -->
+      <text x="696" y="155" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">Responsive personal website</text>
+      <text x="696" y="172" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">highlighting technical skills,</text>
+      <text x="696" y="189" fill="#94A3B8" font-family="-apple-system, sans-serif" font-size="11">credentials &amp; projects.</text>
+      
+      <!-- Tech Tags -->
+      <rect x="694" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="723" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">HTML5</text> <rect x="756" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="785" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">CSS3</text> <rect x="818" y="217" width="58" height="22" rx="6" fill="#1E293B" stroke="#334155" stroke-width="0.8"/><text x="847" y="232" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="9" font-weight="600">Modern JS</text>
+    </g>
+    
+</svg>
