@@ -1,9 +1,11 @@
 <div align="center">
 
-  <!-- DYNAMIC GRADIENT HEADER BANNER -->
+  <!-- BESPOKE 3D CYBERPUNK PROFILE BANNER -->
   <a href="https://github.com/Abhi-dev-02">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=Abhishek%20Kudale&fontSize=42&fontAlignY=38&animation=twinkling&desc=CSE%20(AI%20%26%20ML)%20%7C%20Full-Stack%20%26%20Data%20Science%20Enthusiast&descAlignY=62&descAlign=50" width="100%" alt="Abhishek Kudale Profile Banner" />
+    <img src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/assets/banner.svg" width="100%" alt="Abhishek Kudale Header Banner" />
   </a>
+
+  <br/><br/>
 
   <!-- TYPING SVG ANIMATION -->
   <a href="https://github.com/Abhi-dev-02">
@@ -65,7 +67,7 @@
 ### 🧊 3D Developer Architecture & Tech Ecosystem
 
 <div align="center">
-  <img src="./assets/3d-tech-ecosystem.svg" width="100%" alt="3D Developer Architecture Ecosystem" />
+  <img src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/assets/3d-tech-ecosystem.svg" width="100%" alt="3D Developer Architecture Ecosystem" />
 </div>
 
 <br/>
@@ -130,7 +132,7 @@
 ### 📦 3D Isometric Project Portals
 
 <div align="center">
-  <img src="./assets/3d-projects.svg" width="100%" alt="3D Isometric Project Portals" />
+  <img src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/assets/3d-projects.svg" width="100%" alt="3D Isometric Project Portals" />
 </div>
 
 <br/>
@@ -152,9 +154,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
-    <img alt="Abhishek's Isometric 3D Contribution City" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Abhishek's Isometric 3D Contribution City" src="https://raw.githubusercontent.com/Abhi-dev-02/Abhi-dev-02/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </div>
 
@@ -248,10 +250,7 @@
 
   <br/>
 
-  <!-- WAVING FOOTER BANNER -->
-  <a href="https://github.com/Abhi-dev-02">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=120&section=footer" width="100%" alt="Footer Wave" />
-  </a>
+  <hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(0, 242, 254, 0), rgba(0, 242, 254, 0.75), rgba(168, 85, 247, 0.75), rgba(236, 72, 153, 0)); margin: 30px 0;" />
 
   <sub>⚡ Crafted with passion by <b>Abhishek Kudale</b> • Always building, always learning.</sub>
 </div>
